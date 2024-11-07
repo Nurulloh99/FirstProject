@@ -1229,6 +1229,20 @@ namespace second
             Console.WriteLine();
             Main(args);
             */
+
+            string str = "Nurulloh";
+            Console.WriteLine($"Kiriting >> {str}");
+            //Console.WriteLine(str.Remove(0, 3));
+            //str.Substring(0, 3);
+            str.IndexOf(str, 0, 3);
+            Console.WriteLine(str);
+
+
+
+            
+
+
+            
         }
     }
 }

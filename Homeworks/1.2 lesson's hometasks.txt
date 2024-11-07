@@ -1,0 +1,201 @@
+namespace SecondProject
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            /// -------------------------------------------------------------------------------
+
+
+
+
+            /**
+            Console.Write("Enter number >> ");
+            var number = 0l;
+            number = Convert.ToInt64(Console.ReadLine());
+            var counter = 0;
+            while (number != 0)
+            {
+                var digit = 0l;
+                digit = number % 10;
+                counter++;
+                number /= 10;
+            }
+            Console.WriteLine($"  {counter}-digit number.\n\n");
+            Main(args);
+            */
+
+
+
+
+
+            /// -------------------------------------------------------------------------------
+
+
+
+
+
+            /**
+            Console.Write("Enter number >> ");
+            var number = Convert.ToInt32(Console.ReadLine());
+
+            var counter = 0;
+
+            while(number != 0)
+            {
+                int digit = number % 10;
+                if(digit % 2 == 0)
+                {
+                    counter++;
+                }
+                number /= 10;
+            }
+            Console.WriteLine($" {counter}-even numbers. \n\n");
+            Main(args);
+            */
+
+
+
+
+
+
+            /// -------------------------------------------------------------------------------
+
+
+
+
+
+
+
+            /**
+            var counter = 0;
+
+            while (true)
+            {
+                Console.Write(" # -> ");
+                var number = Convert.ToInt32(Console.ReadLine());
+                if (number != 0)
+                {
+                    counter++;
+                }
+                else
+                {
+                    break;
+                }
+            }
+            Console.WriteLine($" Amount of number >> {counter}\n\n");
+            Main(args);
+            */
+
+
+
+
+
+
+            /// -------------------------------------------------------------------------------
+
+
+
+
+
+            /**
+            var counter = 0;
+
+            while (true)
+            {
+                Console.Write(" # -> ");
+                var number = Convert.ToInt32(Console.ReadLine());
+
+                if(number != 0)
+                {
+                    if(number >= 50)
+                    {
+                        counter += number;
+                    }
+                }
+                else
+                {
+                    break;
+                }
+            }
+            Console.WriteLine($" Natija >> {counter}\n\n");
+            Main(args);
+            */
+
+
+
+
+
+
+            /// -------------------------------------------------------------------------------
+
+
+
+
+
+
+            /**
+            Console.Write(" Enter number >> ");
+            var number = Convert.ToInt32(Console.ReadLine());
+
+            var digit = 0;
+
+            while(number != 0)
+            {
+                digit = number % 10;
+                if(digit == 5)
+                {
+                    Console.WriteLine(" 5 raqami BOR.\n\n");
+                    Main(args);
+                    return;
+                }
+                number /= 10;
+            }
+            Console.WriteLine(" 5 raqami YO'Q.\n\n");
+            Main(args);
+            */
+
+
+
+
+
+
+            /// -------------------------------------------------------------------------------
+
+
+
+
+
+            /**
+            Console.Write(" Enter number >> ");
+            var number = Convert.ToInt32(Console.ReadLine());
+
+            var i = 1;
+
+            while(i < number)
+            {
+                i *= 3;
+            }
+            if(i == number)
+            {
+                Console.WriteLine("Bu son 3 ning darajasi\n\n");
+            }
+            else
+            {
+                Console.WriteLine("Bu son 3 ning darajasi EMAS\n\n");
+            }
+            Main(args);
+            */
+
+
+
+
+
+
+
+            /// -------------------------------------------------------------------------------
+
+        }
+    }
+}
