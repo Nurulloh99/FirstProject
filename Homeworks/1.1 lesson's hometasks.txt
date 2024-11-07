@@ -1,4 +1,4 @@
-﻿using System.Collections.Specialized;
+using System.Collections.Specialized;
 using System.Diagnostics.Metrics;
 using System.Net.Http.Headers;
 using System.Net.Sockets;
