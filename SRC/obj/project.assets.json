@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjectsWithCsharp\\FirstProjectGIT\\SRC\\SRC.csproj",
+      "projectUniqueName": "D:\\ProjectsWithCsharp\\FirstProject\\SRC\\SRC.csproj",
       "projectName": "SRC",
-      "projectPath": "D:\\ProjectsWithCsharp\\FirstProjectGIT\\SRC\\SRC.csproj",
+      "projectPath": "D:\\ProjectsWithCsharp\\FirstProject\\SRC\\SRC.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjectsWithCsharp\\FirstProjectGIT\\SRC\\obj\\",
+      "outputPath": "D:\\ProjectsWithCsharp\\FirstProject\\SRC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Windows 10\\AppData\\Roaming\\NuGet\\NuGet.Config",

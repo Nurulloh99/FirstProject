@@ -1,0 +1,15 @@
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.AssemblyInfoInputs.cache
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.AssemblyInfo.cs
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.csproj.CoreCompileInputs.cache
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.sourcelink.json
+D:\ProjectsWithCsharp\FirstProject\SRC\bin\Debug\net8.0\SRC.exe
+D:\ProjectsWithCsharp\FirstProject\SRC\bin\Debug\net8.0\SRC.deps.json
+D:\ProjectsWithCsharp\FirstProject\SRC\bin\Debug\net8.0\SRC.runtimeconfig.json
+D:\ProjectsWithCsharp\FirstProject\SRC\bin\Debug\net8.0\SRC.dll
+D:\ProjectsWithCsharp\FirstProject\SRC\bin\Debug\net8.0\SRC.pdb
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.dll
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\refint\SRC.dll
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.pdb
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\SRC.genruntimeconfig.cache
+D:\ProjectsWithCsharp\FirstProject\SRC\obj\Debug\net8.0\ref\SRC.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SRC
-build_property.ProjectDir = D:\ProjectsWithCsharp\FirstProjectGIT\SRC\
+build_property.ProjectDir = D:\ProjectsWithCsharp\FirstProject\SRC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
